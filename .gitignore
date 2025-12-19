@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data / outputs (elige qué quieres versionar)
+data/*.csv
+reports/*.png
+reports/*.csv
+
+# VS Code
+.vscode/
